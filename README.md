@@ -6,7 +6,7 @@
 [gem]: https://rubygems.org/gems/bower
 [travis]: http://travis-ci.org/spagalloco/bower
 
-[Bower](http://twitter.github.com/bower/) integration for your ruby apps.
+[Bower](http://bower.io) integration for your ruby apps.
 
 **Note:** Bower's development is in a state of flux as they migrate to new conventions. Development of this library will stay in lock-step with the Bower spec, but no new releases will occur until the spec stabilizes and Sprockets support is complete as well.
 
